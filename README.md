@@ -37,6 +37,10 @@ A deep learning–based system to detect deepfake content in **images and videos
 This approach aligns inference with training data distribution and improves robustness.
 
 ---
+## 📊 Model Evaluation Metrics
+
+![Evaluation Results](https://raw.githubusercontent.com/SatyamShinde77/Lightweight-Deepfake-Detection/main/All%20metrics%20evaluation%20ss%20.png)
+
 
 ## ▶️ Run the Demo
 
