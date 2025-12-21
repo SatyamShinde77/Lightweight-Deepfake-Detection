@@ -41,6 +41,10 @@ This approach aligns inference with training data distribution and improves robu
 
 ![Evaluation Results](https://raw.githubusercontent.com/SatyamShinde77/Lightweight-Deepfake-Detection/main/All%20metrics%20evaluation%20ss%20.png)
 
+## 🎥 Demo Video
+<video src="DeepFake checking Short video ....mp4" controls width="600"></video>
+
+
 
 ## ▶️ Run the Demo
 
